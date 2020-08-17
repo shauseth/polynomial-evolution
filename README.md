@@ -1,2 +1,2 @@
-# code-evolution
- Evolving code using dumb mutation and ruthless selection.
+# Polynomial Evolution
+ Evolving polynomials random mutation and ruthless selection.
